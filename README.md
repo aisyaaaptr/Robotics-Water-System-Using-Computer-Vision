@@ -14,7 +14,7 @@ Dibuat oleh tim Mekatronika dan Kecerdasan Buatan 2021 UPI Purwakarta
 ## Latar Belakang
 Air merupakan unsur kritis dalam keberlanjutan kehidupan, terutama dalam konteks pertanian dan penjagaan lingkungan. Sistem pengairan adalah solusi yang dirancang secara khusus untuk mendistribusikan air secara teratur dan efisien ke area tertentu, dengan tujuan meningkatkan produktivitas pertanian, keberlanjutan lingkungan, dan kenyamanan urban. Dalam berbagai konteks, sistem pengairan telah menjadi pilar dalam mengatasi tantangan terkait manajemen air di berbagai daerah di seluruh dunia.
 
-Oleh karena itu, projek ini ditujukan untuk membentuk sebuah sistem pengairan yang cerdas. Sistem ini menggunakan komponen elektronika sederhana dengan arduino sebagai mikrokontroler utamanya. Selain itu, sistem ini juga dioperasikan berdasarkan lokasi mana yang terdeteksi oleh objek yang telah dirancang sebelumnya, sehingga nantinya akan menghasilkan output yang berbeda-beda. 
+Oleh karena itu, projek ini ditujukan untuk membentuk sebuah sistem pengairan yang cerdas. Sistem ini menggunakan komponen elektronika sederhana dengan arduino sebagai mikrokontroler utamanya. Sistem ini juga berkerja berdasarkan lokasi mana yang terdeteksi oleh objek yang telah dirancang sebelumnya sehingga akan menghasilkan output yang berbeda-beda. 
 
 ## Demo 
 Komponen yang digunakan pada projek ini adalah:
