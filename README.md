@@ -1,6 +1,5 @@
 # Robotics Water System Using Computer Vision
 This project aims to create a smart water system. This system works based on which locations are detected by previously designed objects thus producing different outputs.
-Dibuat oleh tim Mekatronika dan Kecerdasan Buatan 2021 UPI Purwakarta
 
 ## Tools
 - Poximity Sensor
